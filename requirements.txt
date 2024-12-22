@@ -1,0 +1,7 @@
+boto3
+pymongo
+easyocr
+sentence-transformers
+scikit-learn
+opencv-python
+matplotlib
